@@ -1,6 +1,2 @@
 #!/bin/bash
-ls -ali
-cd ..
-ls -ali
-cd /boot
-ls -ali
+ls -ali ./ ../ /boot
