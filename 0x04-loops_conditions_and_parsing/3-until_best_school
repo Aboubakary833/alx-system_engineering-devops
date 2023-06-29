@@ -1,7 +1,9 @@
 #!/usr/bin/env bash
 # This script prints out 10 times "Best School"
 
-for ((i=0; i<10; i++))
+i=0
+until [ $i -eq 10 ]
 do
     echo "Best School"
+    i=$((i+1))
 done
