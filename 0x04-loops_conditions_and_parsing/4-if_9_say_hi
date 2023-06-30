@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 # if 9 say hi
 
-i=0
+i=1
 
-while [ $i -lt 10 ]
+while [ $i -lt 11 ]
 do
-    if [ $i -eq 8 ]
+    if [ $i -eq 9 ]
     then
         echo "Best School"
         echo "hi"
