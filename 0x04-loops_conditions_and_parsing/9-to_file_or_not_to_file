@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # Check if school file exists and provides information about it.
 # If the file exists, it checks if it's empty or not(if it is a regular file or not).
 

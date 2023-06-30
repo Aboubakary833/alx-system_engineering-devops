@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # Print numbers from 1 to 20
 # Print "4 and then bad luck from China" for the 4th loop iteration
 # Print "9 and then bad luck from Japan" for the 9th

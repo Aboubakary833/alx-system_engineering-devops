@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # Print current directory content in a list format
 
 for file in ./*-*

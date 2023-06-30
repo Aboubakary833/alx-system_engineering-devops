@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 # Print "bad luck" during the 4th loop iteration
 # Print "good luck" during the 8th
 # Print "Best School" for others
