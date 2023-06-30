@@ -10,13 +10,13 @@ while [ $i -le 21 ]
 do
     case $i in
         4)
-            echo "$i and then bad luck from China"
+            echo -e  "$i\nand then bad luck from China"
             ;;
         9)
-            echo "$i and then bad luck from Japan"
+            echo -e  "$i\nand then bad luck from Japan"
             ;;
         17)
-            echo "$i and then bad luck from Italy"
+            echo -e "$i\nand then bad luck from Italy"
             ;;
         *)
             echo $i
