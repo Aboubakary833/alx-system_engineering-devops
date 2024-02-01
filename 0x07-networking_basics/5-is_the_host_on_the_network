@@ -1,0 +1,3 @@
+#!/bin/bash
+ping $1
+#Ping an IP address passed as argument
