@@ -1,3 +1,0 @@
-#!/bin/bash
-netstat
-#Show a list of listening port
