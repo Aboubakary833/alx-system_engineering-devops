@@ -1,3 +1,8 @@
 #!/usr/bin/env bash
 #Ping an IP address passed as argument
-ping $1
+file=$(basename "${BASH_SOURCE[@]}")
+if ! [ "$1" ]; then
+	echo "Usage: ${file} {IP_ADDRESS}"
+else
+	ping -c 5 "${1}"
+fi
