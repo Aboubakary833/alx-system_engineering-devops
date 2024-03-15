@@ -1,3 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #Show a list of listening port
+
 netstat -l
